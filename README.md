@@ -35,4 +35,4 @@ This will return a .json file
 
 #Predictions
 
-![Binary Image] https://github.com/ahsan44411/YOLO-Object-Detection/blob/main/yolo%20prediction.JPG
+![Binary Image](https://github.com/ahsan44411/YOLO-Object-Detection/blob/main/yolo%20prediction.JPG)
