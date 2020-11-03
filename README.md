@@ -8,6 +8,8 @@ Classes:
 4. Bicycles
 5. Number Plates
 
+Around 500-1000 images were collected for each class and number of instances per class exceeded 1000. All images were labeled using LabelImg(https://github.com/tzutalin/labelImg)
+
 # Resources
 Model Weights for traffic dataset (Person, Cars, Bikes, Bicycles, Number Plates) avalible here 
 <strong>https://drive.google.com/file/d/1-4l16rpFfakvERIWHUnNC2Oe3z2RzaDG/view?usp=sharing</strong>
