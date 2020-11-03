@@ -33,5 +33,6 @@ This will return a .json file
 <strong>curl.exe -X POST -F image=@test.jpg 'http://localhost:5000/api/test' --output output.json</strong>
 
 
-<strong>Predictions<strong>
+#Predictions
+
 ![Binary Image] https://github.com/ahsan44411/YOLO-Object-Detection/blob/main/yolo%20prediction.JPG
